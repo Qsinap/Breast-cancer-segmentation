@@ -28,12 +28,12 @@ Results
 4. [MultiResUNet](#MultiResUNet)
 5. [SeResNet](#SeResNet)
 6. [SeResNeXt](#SeResNeXt)
-7. [SeNet](#SeNet)
-8. [ResNet](#ResNet)
-9. [MobileNetV2](#MobileNetV2)
-10. [DenseNet](#DenseNet)
-11. [VGG19](#VGG19)
-12. [LinkNet_VGG19](#LinkNet_VGG19)
+7. [ResNet](#ResNet)
+8. [MobileNetV2](#MobileNetV2)
+9. [DenseNet](#DenseNet)
+10. [VGG19](#VGG19)
+11. [LinkNet_VGG19](#LinkNet_VGG19)
+12. [Base_UNet](#Base_UNet)
 
 ## EfficientNet
 Training
@@ -49,12 +49,12 @@ Validation
 ## ResNeXt
 Training
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Training-resnext101.svg">
 </p>
 
 Validation
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Validation-resnext101.svg">
 </p>
 
 ## InceptionResNetV2
@@ -101,26 +101,15 @@ Validation
   <img src="">
 </p>
 
-## SeNet
-Training
-<p align="center">
-  <img src="">
-</p>
-
-Validation
-<p align="center">
-  <img src="">
-</p>
-
 ## ResNet
 Training
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Training-resnet152.svg">
 </p>
 
 Validation
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Validation-resnet152.svg">
 </p>
 
 ## MobileNetV2
@@ -148,12 +137,12 @@ Validation
 ## VGG19
 Training
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Training-vgg19.svg">
 </p>
 
 Validation
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Validation-vgg19.svg">
 </p>
 
 ## LinkNet_VGG19
@@ -165,6 +154,17 @@ Training
 Validation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Validation-link_vgg19.svg">
+</p>
+
+## Base_UNet
+Training
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Training-base.svg">
+</p>
+
+Validation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qsinap/Breast-cancer-segmentation/main/Figures/Validation-base.svg">
 </p>
 
 ## Codes
